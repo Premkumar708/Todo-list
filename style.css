@@ -94,6 +94,9 @@ main h1 {
     padding: 1.2rem;
     border: .2rem solid var(--light);
 }
+#tasks .task .content{
+    flex: 1 1 0%;
+}
 #tasks .task .content .input {
     color: var(--light);
     font-size: 1.2rem;
